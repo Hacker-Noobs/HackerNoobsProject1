@@ -2,7 +2,10 @@
 <h1 align="center">The First Official HACKERNOOBS Project</h1>
 
 <p align="center">
-  <img src="images/logo.png" width="128" />
+  <img src="Images/logo.png" width="128" />
 </p>
 
-##FTP plus Cloud Storage Project
+<p align="center">
+  FTP + Cloud Storage Project
+</p>
+
