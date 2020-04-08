@@ -1,5 +1,5 @@
 
-<h1 align="center">FTP + Cloud Storage Project</h1>
+<h1 align="center">FTP + Cloud Storage</h1>
 
 <p align="center">
   <img src="Images/logo.jpg" width="128" />
