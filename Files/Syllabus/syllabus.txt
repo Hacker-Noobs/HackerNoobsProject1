@@ -1,3 +1,4 @@
+
 #Syllabus
 
 -  Regulations
@@ -17,3 +18,4 @@
 -  Vector Calculus
 -  Life Skills
 -  Professional Communication
+
