@@ -1,1 +1,21 @@
-Here are alll the syllabus for the first term
+
+#Syllabus
+
+-  Regulations
+-  Curriculum
+-  Basics of Civil and Mechanical
+-  Basics of Elecrical and electrical
+-  Civil and Mechworkshop
+-  C Programming
+-  Electrical and Electronics Workshop
+-  Engineering Graphics
+-  Engineering Mechanics
+-  Engineering Chemistry
+-  Engineering Physics A
+-  Engineering Physics B
+-  Engineering Physics Lab
+-  Linear Algebra
+-  Vector Calculus
+-  Life Skills
+-  Professional Communication
+
