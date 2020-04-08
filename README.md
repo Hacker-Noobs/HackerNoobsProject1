@@ -2,7 +2,7 @@
 <h1 align="center">Hackernoobs Project 1</h1>
 
 <p align="center">
-  <img src="Images/logo.ipg" width="128" />
+  <img src="Images/logo.jpg" width="128" />
 </p>
 
 <p align="center">
