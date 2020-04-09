@@ -9,7 +9,7 @@
   The first hackernoobs project!
 </p>
 
-## Platorms
+## Platforms
 ### Linux
 For linux users who love a cli interface, just download the Linux.sh file and enjoy!
 #### Dependencies
